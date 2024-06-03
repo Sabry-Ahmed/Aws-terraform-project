@@ -1,4 +1,3 @@
-
 # Terraform AWS Infrastructure Project
 
 This project contains Terraform configurations to provision AWS resources, including an S3 bucket, an EC2 instance, and a DynamoDB table.
